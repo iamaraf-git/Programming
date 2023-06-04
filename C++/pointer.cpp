@@ -56,3 +56,18 @@ void geeks()
 }
 // Driver program
 int main() { geeks(); }
+
+
+
+
+// Reference and pointers both can be used to refer the actual variable they provide the direct access to the variable.
+// 
+// But, references have some advantages over the pointer variables, those are:
+// 
+// // // In pointers - To access the value of actual variable, we need to explicitly deference the pointer variable by using ‘value at address’ operator/ dereferencing operator (*).
+// 
+// // // In references - To access the value of actual variable, we do not need to explicitly dereference the reference variable, they gets de-referenced automatically.
+// 
+// 
+// // // Reference variables are cleaner and modish as compare to the pointers; they can also be used while passing in the function as arguments, known as call by references.
+// 
