@@ -1,3 +1,5 @@
+//Linked list : Display output opposite input order
+
 #include <iostream>
 
 using namespace std;
