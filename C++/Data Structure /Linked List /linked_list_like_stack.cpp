@@ -4,7 +4,7 @@
 
 using namespace std;
 
-// Node structure for the linked list
+// Node class for the linked list
 class Node
 {
 public :
