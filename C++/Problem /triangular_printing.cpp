@@ -1,9 +1,12 @@
 /*	
 for input 3;
 output 
-	 1 
-  2 2
- 3 3 3
+
+	   1
+    2 2
+   3 3 3
+  4 4 4 4
+ 5 5 5 5 5
 */
 
 #include<iostream>
