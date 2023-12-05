@@ -31,7 +31,8 @@ void no() { cout << "NO\n"; }
 
 void solve()
 {
-	test();
+
+//test();
 
 }
 
@@ -42,7 +43,7 @@ int main()
 {
 	fastio;
 
-	testcase
+//testcase
 	solve();
 
 	return 0;
