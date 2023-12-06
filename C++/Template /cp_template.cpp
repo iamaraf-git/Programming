@@ -12,7 +12,7 @@ using namespace std;
 #define f first
 #define s second
 #define endl '\n'
-#define sp <<" "
+#define sp <<" " <<
 #define pb push_back
 #define MOD 1000000007
 #define pb push_back
