@@ -9,6 +9,12 @@ using namespace std;
 #define mii map<int, int>
 #define si set<int>
 #define sc set<char>
+#define f first
+#define s second
+#define endl '\n'
+#define sp <<" "
+#define pb push_back
+#define MOD 1000000007
 #define pb push_back
 #define ppb pop_back
 #define mp make_pair
