@@ -1,0 +1,15 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    set<int> s;
+    s.insert(1); // [1]
+    s.insert(14); // [1, 14]
+    s.insert(9); // [1, 9, 14]
+    s.insert(2); // [1, 2, 9, 14]
+
+    auto it = s.end();           // while unordered_set s.end() does not work
+    cout << *(--it) << '\n'; // 14
+    return 0;
+}
